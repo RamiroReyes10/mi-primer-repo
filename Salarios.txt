@@ -1,3 +1,5 @@
 1000 pesos
 100 pesos
 3000 pesos
+
+son los salarios del mes
